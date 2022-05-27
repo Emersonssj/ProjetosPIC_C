@@ -1,0 +1,2 @@
+Warning[2068] C:\Users\emils\Desktop\Projetos-PIC-18F4520-main\Projetos-PIC-18F4520-main\Lista2-(pic18f4520)\Q2\Display8x8\display.c 117 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\emils\Desktop\Projetos-PIC-18F4520-main\Projetos-PIC-18F4520-main\Lista2-(pic18f4520)\Q2\Display8x8\display.c 117 : default startup code expects main function declared as 'void main (void)'
